@@ -1,5 +1,5 @@
 # OneRASP Agent's Docker
-An Docker Image can help you quickly using OneRASP Agent to protect your application layer
+The Docker Image can help you quickly using OneRASP Agent to protect your application layer
 
 ## What is OneRASP？
 Do you know there is 80% of attacks happening at application layer? OneRASP is  an Application Layer Protector which is RASP-based technology, enables applications to protect themselves by identifying and blocking attacks in real time.
